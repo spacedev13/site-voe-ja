@@ -1,0 +1,1 @@
+<button onclick="location.href = 'www.yoursite.com';" id="myButton" class="float-left submit-button" >Home</button>
